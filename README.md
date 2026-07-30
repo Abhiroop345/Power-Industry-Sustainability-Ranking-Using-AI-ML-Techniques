@@ -130,6 +130,6 @@ claimed.
 
 ## Acknowledgments
 
-Developed as part of the DEEAS–ISI Summer Internship Programme, under the guidance of
-[Guide / Mentor Name], IDEAS – Institute of Data Engineering, Analytics and Science Foundation,
+Developed as part of the IDEAS–ISI Summer Internship Programme, under the guidance of
+Dr. Piyali Sengupta, IDEAS – Institute of Data Engineering, Analytics and Science Foundation,
 ISI Kolkata.
