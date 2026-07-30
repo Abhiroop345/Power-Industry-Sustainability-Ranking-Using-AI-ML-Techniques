@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Generated outputs (regenerate by running the notebook)
+outputs/*.xlsx
+outputs/*.csv
+!outputs/.gitkeep
+
+# Colab
+.colab/
