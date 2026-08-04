@@ -65,25 +65,6 @@ schemes — an honest finding discussed in detail in the report, not glossed ove
 calibration procedure (grid search) improves this fit (ρ = 0.754) by shifting weight toward
 Governance, though this is flagged as a small-sample result requiring further validation.
 
-## Repository Structure
-
-```
-power-sector-esg-ranking/
-├── README.md
-├── LICENSE
-├── requirements.txt
-├── .gitignore
-├── notebooks/
-│   └── Power_Sector_Sustainability_Ranking_AI_ML.ipynb
-├── data/
-│   └── ESG_Dataset.xlsx
-├── docs/
-│   ├── IDEAS_ISI_Summer_Internship_Report.docx
-│   └── Power_Sector_Sustainability_Ranking_Presentation.pptx
-└── outputs/
-    └── Sustainability_Ranking_Output.xlsx   # generated when the notebook is run
-```
-
 ## How to Run
 
 **Option A — Google Colab (recommended, no setup required)**
@@ -130,6 +111,6 @@ claimed.
 
 ## Acknowledgments
 
-Developed as part of the IDEAS–ISI Summer Internship Programme, under the guidance of
+Developed as part of the IDEAS–TIH Summer Internship Programme, under the guidance of
 Dr. Piyali Sengupta, IDEAS – Institute of Data Engineering, Analytics and Science Foundation,
 ISI Kolkata.
